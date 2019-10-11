@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatabaseAdmin</string>
+    <string name="add">AGGIUNGI PIZZA</string>
+    <string name="delete">ELIMINA PIZZA</string>
+    <string name="order">VISUALIZZA ORDINI</string>
+    <string name="history">STORICO ORDINI</string>
+    <string name="success">PIZZA AGGIUNTA!!</string>
+</resources>
