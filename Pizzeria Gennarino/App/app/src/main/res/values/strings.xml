@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizzeria Gennarino</string>
+    <string name="connessione">Mi sto connettendo al server...per favore Attendere</string>
+    <string name="benvenuto">Benvenuto alla pizzeria da Gennarino</string>
+    <string name="success">Grazie per aver ordinato da Gennarino.</string>
+    <string name="ordina">ORDINA</string>
+</resources>
